@@ -1,0 +1,31 @@
+/*
+Primary (Saffron): #F4C430
+Secondary (Indian Red): #CD5C5C
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700&display=swap');
+
+html, body { margin: 0; padding: 0; }
+
+.titleBar {
+    background-color: #F4C430;
+    font-family: "Roboto"; font-size: 3em; font-weight: 100;color: white; text-align: center; 
+    padding-top: .5em; padding-bottom: .5em;
+    width: 100%;
+}
+
+.diagramContainer {
+    padding-top: .5em; padding-bottom: .5em; background-color: white;
+}
+
+.diagramTitle {
+    font-family: "Roboto"; font-size: 1em; font-weight: 500; color: grey; text-align: center;
+}
+
+.sectionContainer {
+    padding-top: .5em; padding-bottom: .5em; background-color: #F4C430;
+}
+
+.sectionTitle {
+    font-family: "Roboto"; font-size: 1em; font-weight: 500; color: white; text-align: center;
+}
