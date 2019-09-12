@@ -1,0 +1,27 @@
+h1 {
+    font-family: "Gayathri"; font-size: 3em; font-weight: 100;
+}
+
+h2 {
+    font-family: "Gayathri"; font-size: 1.5em; font-weight: 400; letter-spacing: .2em; 
+}
+
+h3 {
+    font-family: "Gayathri"; font-size: 1.5em; font-weight: 500; letter-spacing: 0;
+}
+
+h4 {
+    margin-top: -20px;
+    color: #FF9933;
+    font-size: 1em;
+    font-weight: 100;
+}
+
+h5 {
+    font-family: "Roboto Slab"; font-size: 1.25em;
+}
+
+p {
+    font-family: "Roboto"; font-weight: 400;
+    text-align: left;
+}
